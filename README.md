@@ -1,2 +1,2 @@
 # OrgsCesta
-Aplicativo em react native
+Aplicativo básico em react native
